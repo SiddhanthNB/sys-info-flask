@@ -1,0 +1,7 @@
+platform
+socket
+re
+uuid
+psutil
+flask
+gunicorn
